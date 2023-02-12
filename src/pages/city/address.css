@@ -1,0 +1,15 @@
+.history-address{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.address{
+  margin-bottom: .25rem;
+  font-size: 1rem;
+}
+
+.address-detail{
+  color: #999;
+  font-size: .8rem;
+}
